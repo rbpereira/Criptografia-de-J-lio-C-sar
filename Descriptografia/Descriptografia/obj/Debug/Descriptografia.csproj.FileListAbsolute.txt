@@ -1,0 +1,14 @@
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\bin\Debug\Descriptografia.exe.config
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\bin\Debug\Descriptografia.exe
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\bin\Debug\Descriptografia.pdb
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\obj\Debug\Descriptografia.csprojAssemblyReference.cache
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\obj\Debug\Descriptografia.Descriptografar.resources
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\obj\Debug\Descriptografia.Properties.Resources.resources
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\obj\Debug\Descriptografia.csproj.GenerateResource.cache
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\obj\Debug\Descriptografia.csproj.CoreCompileInputs.cache
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\obj\Debug\Descriptografia.exe
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\obj\Debug\Descriptografia.pdb
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\bin\Debug\Newtonsoft.Json.dll
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\bin\Debug\Newtonsoft.Json.pdb
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\bin\Debug\Newtonsoft.Json.xml
+C:\Robert\CodeNation\Descriptografia\Descriptografia\Descriptografia\obj\Debug\Descriptografia.csproj.CopyComplete
